@@ -1,0 +1,4 @@
+Netapp data fabric is a comprehensive data management that is developed to store the organisations details on hybrid and multicloud premises.
+netapp provides seamless experience to store their data on the cloud.
+it provides various services which are very efficient to store.
+promotes aspects of data mobility data protection data control.
